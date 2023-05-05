@@ -12,3 +12,11 @@ If the meatball browser executable doesn't work, you may need to directly downlo
 The exe may be considered a virus by virus protection programs, as it did with mine.
 This is quite literally just a direct py file that was made into an exe with pyinstaller and is a known false alarm regarding pyinstaller executables.
 However, if you don't want to risk it - I don't blame you, I wouldn't trust it either. Therefore, I've included the actual pycharm project files under /ProjectFiles. You can either just run it from pycharm or another IDE, or compile it yourself.
+
+Virtual environment requirements if using project files:
+1. Python 3.9.0
+   - [Installer here](https://www.python.org/downloads/release/python-390/)
+2. PyQt5
+   - Pip command: pip3 install PyQt5
+3. PyQtWebEngine
+   - Pip command: pip3 install PyQtWebEngine
