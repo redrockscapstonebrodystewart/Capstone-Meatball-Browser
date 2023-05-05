@@ -3,6 +3,7 @@ Red Rocks Community College 2023 Capstone project. Basic Web Browser.
 By Brody Stewart
 
 ## Installation
+Navigate into the /dist/ folder.
 Press the code dropdown menu and select download zip.
 Extract the folder and just run the MeatballBrowser.exe!
 
